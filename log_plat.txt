@@ -12,3 +12,8 @@
 2024-11-24 10:25:58 - Plat: B4029TLO, Daerah: Jakarta, Depok, Bekasi, Wilayah: Jakarta, Jenis Kendaraan: Sepeda Motor
 2024-11-24 10:27:42 - Plat: B4029TLO, Daerah: Jakarta, Depok, Bekasi, Wilayah: Jakarta, Jenis Kendaraan: Sepeda Motor
 2024-11-24 10:28:32 - Plat: B4029TLO, Daerah: Jakarta, Depok, Bekasi, Wilayah: Jakarta, Jenis Kendaraan: Sepeda Motor
+2025-11-14 00:33:41 - Plat: B1544TJO, Daerah: Jakarta, Depok, Bekasi, Wilayah: Jakarta, Jenis Kendaraan: Kendaraan Penumpang
+2025-11-14 00:36:57 - Plat: B1544TJO, Daerah: Jakarta, Depok, Bekasi, Wilayah: Jakarta, Jenis Kendaraan: Kendaraan Penumpang
+2025-11-14 00:38:19 - Plat: B1544TJO, Daerah: Jakarta, Depok, Bekasi, Wilayah: Jakarta, Jenis Kendaraan: Kendaraan Penumpang
+2025-11-14 00:39:19 - Plat: B1544TJO, Daerah: Jakarta, Depok, Bekasi, Wilayah: Jakarta, Jenis Kendaraan: Kendaraan Penumpang
+2025-11-14 00:39:59 - Plat: B1544TJO, Daerah: Jakarta, Depok, Bekasi, Wilayah: Jakarta, Jenis Kendaraan: Kendaraan Penumpang

@@ -17,3 +17,15 @@
 2025-11-14 00:38:19 - Plat: B1544TJO, Daerah: Jakarta, Depok, Bekasi, Wilayah: Jakarta, Jenis Kendaraan: Kendaraan Penumpang
 2025-11-14 00:39:19 - Plat: B1544TJO, Daerah: Jakarta, Depok, Bekasi, Wilayah: Jakarta, Jenis Kendaraan: Kendaraan Penumpang
 2025-11-14 00:39:59 - Plat: B1544TJO, Daerah: Jakarta, Depok, Bekasi, Wilayah: Jakarta, Jenis Kendaraan: Kendaraan Penumpang
+2025-12-20 13:07:55 - Plat: B2156TOR, Daerah: Jakarta, Depok, Bekasi, Wilayah: Jakarta, Jenis Kendaraan: Sepeda Motor
+2025-12-20 13:10:19 - Plat: N456OR, Daerah: Malang, Pasuruan, Probolinggo, Lumajang, Wilayah: Jawa Timur, Jenis Kendaraan: Kendaraan Penumpang
+2025-12-20 13:10:35 - Plat: AB1540IJ, Daerah: Yogyakarta, Bantul, Gunung Kidul, Sleman, Kulon Progo, Wilayah: Yogyakarta, Jenis Kendaraan: Kendaraan Penumpang
+2025-12-20 13:10:55 - Plat: G1023XX, Daerah: Pekalongan, Pemalang, Batang, Tegal, Brebes, Wilayah: Jawa Tengah, Jenis Kendaraan: Kendaraan Penumpang
+2025-12-20 13:22:10 - Plat: G1023XX, Daerah: Pekalongan, Pemalang, Batang, Tegal, Brebes, Wilayah: Jawa Tengah, Jenis Kendaraan: Kendaraan Penumpang
+2025-12-20 14:18:35 - Plat: B2156TOR, Daerah: Jakarta, Depok, Bekasi, Wilayah: Jakarta, Jenis Kendaraan: Sepeda Motor
+2025-12-20 14:19:29 - Plat: G1023XX, Daerah: Pekalongan, Pemalang, Batang, Tegal, Brebes, Wilayah: Jawa Tengah, Jenis Kendaraan: Kendaraan Penumpang
+2025-12-20 14:21:15 - Plat: AB1540IJ, Daerah: Yogyakarta, Bantul, Gunung Kidul, Sleman, Kulon Progo, Wilayah: Yogyakarta, Jenis Kendaraan: Kendaraan Penumpang
+2025-12-20 14:21:41 - Plat: B4029TLO, Daerah: Jakarta, Depok, Bekasi, Wilayah: Jakarta, Jenis Kendaraan: Sepeda Motor
+2026-02-24 21:45:04 - Plat: B2156TOR, Daerah: Jakarta, Depok, Bekasi, Wilayah: Jakarta, Jenis Kendaraan: Sepeda Motor
+2026-02-24 21:45:16 - Plat: G1023XX, Daerah: Pekalongan, Pemalang, Batang, Tegal, Brebes, Wilayah: Jawa Tengah, Jenis Kendaraan: Kendaraan Penumpang
+2026-02-24 21:46:06 - Plat: B4029TLO, Daerah: Jakarta, Depok, Bekasi, Wilayah: Jakarta, Jenis Kendaraan: Sepeda Motor

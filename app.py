@@ -208,6 +208,14 @@ def crop(image_path):
             class_name = detect_names[int(cls)]
             annotator.box_label(box, color=colors(int(cls), True), label=class_name)
             crop_obj = im0[int(box[1]): int(box[3]), int(box[0]): int(box[2])]
+            # Save cropped image to static/crops
+            crop_folder = os.path.join('static', 'crops')
+            if not os.path.exists(crop_folder):
+                os.makedirs(crop_folder, exist_ok=True)
+            crop_filename = datetime.now().strftime("%Y%m%d%H%M%S") + "_crop.jpg"
+            crop_path = os.path.join(crop_folder, crop_filename)
+            # cv2.imwrite expects BGR numpy array
+            cv2.imwrite(crop_path, crop_obj)
             return crop_obj
     else:
         raise ValueError("Tidak ditemukan plat nomor dalam gambar.")
@@ -299,5 +307,5 @@ def prediction():
 def uploaded_file(filename):
     return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
 
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000, debug=True)
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=8080, debug=True)
